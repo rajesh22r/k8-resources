@@ -5,4 +5,4 @@ metadata:
    name: nginx-config
 data: 
   course: devopswithaws
-  duration: "120hrs"
+  time: "120hrs"
