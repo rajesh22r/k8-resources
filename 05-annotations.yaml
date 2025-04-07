@@ -8,6 +8,6 @@ metadata:
      buildURL: "https://jenkins.joindevops.com/expense/backend/build/67"
 
 spec:
-    containers:
-    - name: nginx
+  containers:
+  - name: nginx
     image: nginx
