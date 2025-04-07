@@ -12,5 +12,5 @@ spec:
   - name: nginx-svc-port
     protol: TCP
     port: 80 #serviceport
-    targetport: 80 #containerport
-    
+    targetPort: 80 #containerport
+
