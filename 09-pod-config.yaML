@@ -19,4 +19,4 @@ spec:
       valueFrom:
         configMapKeyRef:
           name: nginx-config
-          key: time
+          key: timeofcours
