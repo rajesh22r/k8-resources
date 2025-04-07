@@ -10,7 +10,7 @@ spec:
     environment: dev
   ports:
   - name: nginx-svc-port
-    protol: TCP
+    protocol: TCP
     port: 80 #serviceport
     targetPort: 80 #containerport
 
